@@ -1,0 +1,43 @@
+:root{
+  --black: #070000;
+  --white: #f8f8f8;
+  --red: #A80E00;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--white);
+}
+
+header img{
+  width: 180px;
+  height: 60px;
+}
+
+header button{
+  margin-right: 10px;
+
+  width: 80px;
+  height: 30px;
+
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  
+  color: var(--white);
+  background-color: var(--black);
+
+  border: none;
+  border-radius: 10px;
+  overflow: 10px;
+
+  padding: 5px;
+}
