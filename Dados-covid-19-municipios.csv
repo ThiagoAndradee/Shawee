@@ -2,10 +2,10 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3500105;Interior;Adamantina;144;6
 3500204;Interior;Adolfo;40;3
 3500303;Interior;Aguai;131;4
-3500402;Interior;Águas da Prata;6;1
-3500501;Interior;Águas de Lindóia;68;4
-3500550;Interior;Águas de Santa Bárbara;7;0
-3500600;Interior;Águas de São Pedro;18;0
+3500402;Interior;Aguas da Prata;6;1
+3500501;Interior;Aguas de Lindóia;68;4
+3500550;Interior;Aguas de Santa Barbara;7;0
+3500600;Interior;Aguas de São Pedro;18;0
 3500709;Interior;Agudos;291;5
 3500758;Interior;Alambari;37;0
 3500808;Interior;Alfredo Marcondes;30;1
@@ -13,15 +13,15 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3501004;Interior;Altinópolis;108;5
 3501103;Interior;Alto Alegre;15;1
 3501152;Interior;Alumínio;98;4
-3501202;Interior;Álvares Florence;23;1
-3501301;Interior;Álvares Machado;120;2
-3501400;Interior;Álvaro de Carvalho;6;3
-3501509;Interior;Alvinlândia;11;0
+3501202;Interior;Alvares Florence;23;1
+3501301;Interior;Alvares Machado;120;2
+3501400;Interior;Alvaro de Carvalho;6;3
+3501509;Interior;Alvinlandia;11;0
 3501608;Interior;Americana;1981;71
 3501707;Interior;Américo Brasiliense;227;3
 3501806;Interior;Américo de Campos;107;1
 3501905;Interior;Amparo;401;13
-3502002;Interior;Analândia;23;0
+3502002;Interior;Analandia;23;0
 3502101;Interior;Andradina;149;6
 3502200;Interior;Angatuba;155;2
 3502309;Interior;Anhembi;5;0
@@ -42,8 +42,8 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3503604;Interior;Areiópolis;36;3
 3503703;Interior;Ariranha;69;3
 3503802;Interior;Artur Nogueira;274;5
-3503901;RMSP (exceto capital);Arujá;1058;59
-3503950;Interior;Aspásia;23;0
+3503901;RMSP (exceto capital);Aruja;1058;59
+3503950;Interior;Aspasia;23;0
 3504008;Interior;Assis;587;18
 3504107;Interior;Atibaia;665;33
 3504206;Interior;Auriflama;185;6
@@ -52,7 +52,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3504503;Interior;Avaré;262;11
 3504602;Interior;Bady Bassitt;355;13
 3504701;Interior;Balbinos;25;0
-3504800;Interior;Bálsamo;148;4
+3504800;Interior;Balsamo;148;4
 3504909;Interior;Bananal;58;0
 3505005;Interior;Barão de Antonina;10;0
 3505104;Interior;Barbosa;37;0
@@ -79,7 +79,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3507001;Interior;Boituva;473;13
 3507100;Interior;Bom Jesus dos Perdões;75;0
 3507159;Interior;Bom Sucesso de Itararé;2;0
-3507209;Interior;Borá;1;0
+3507209;Interior;Bora;1;0
 3507308;Interior;Boracéia;27;0
 3507407;Interior;Borborema;50;1
 3507456;Interior;Borebi;19;1
@@ -92,15 +92,15 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3508009;Interior;Buri;106;4
 3508108;Interior;Buritama;130;6
 3508207;Interior;Buritizal;28;0
-3508306;Interior;Cabrália Paulista;49;0
+3508306;Interior;Cabralia Paulista;49;0
 3508405;Interior;Cabreúva;600;33
 3508504;Interior;Caçapava;593;18
 3508603;Interior;Cachoeira Paulista;111;7
 3508702;Interior;Caconde;45;0
-3508801;Interior;Cafelândia;159;2
+3508801;Interior;Cafelandia;159;2
 3508900;Interior;Caiabu;22;2
 3509007;RMSP (exceto capital);Caieiras;1127;71
-3509106;Interior;Caiuá;24;0
+3509106;Interior;Caiua;24;0
 3509205;RMSP (exceto capital);Cajamar;975;59
 3509254;Interior;Cajati;724;7
 3509304;Interior;Cajobi;57;3
@@ -112,8 +112,8 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3509809;Interior;Campos Novos Paulista;19;0
 3509908;Interior;Cananéia;88;3
 3509957;Interior;Canas;12;1
-3510005;Interior;Cândido Mota;117;2
-3510104;Interior;Cândido Rodrigues;20;0
+3510005;Interior;Candido Mota;117;2
+3510104;Interior;Candido Rodrigues;20;0
 3510153;Interior;Canitar;14;0
 3510203;Interior;Capão Bonito;326;16
 3510302;Interior;Capela do Alto;171;1
@@ -122,14 +122,14 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3510609;RMSP (exceto capital);Carapicuíba;3918;226
 3510708;Interior;Cardoso;69;3
 3510807;Interior;Casa Branca;92;2
-3510906;Interior;Cássia dos Coqueiros;37;0
+3510906;Interior;Cassia dos Coqueiros;37;0
 3511003;Interior;Castilho;80;1
 3511102;Interior;Catanduva;1132;44
-3511201;Interior;Catiguá;81;3
+3511201;Interior;Catigua;81;3
 3511300;Interior;Cedral;75;2
 3511409;Interior;Cerqueira César;64;1
 3511508;Interior;Cerquilho;154;9
-3511607;Interior;Cesário Lange;53;3
+3511607;Interior;Cesario Lange;53;3
 3511706;Interior;Charqueada;190;5
 3511904;Interior;Clementina;47;0
 3512001;Interior;Colina;107;8
@@ -145,14 +145,14 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3513009;RMSP (exceto capital);Cotia;2282;126
 3513108;Interior;Cravinhos;151;14
 3513207;Interior;Cristais Paulista;13;0
-3513306;Interior;Cruzália;1;0
+3513306;Interior;Cruzalia;1;0
 3513405;Interior;Cruzeiro;196;8
 3513504;Interior;Cubatão;4253;156
 3513603;Interior;Cunha;31;0
 3513702;Interior;Descalvado;94;3
 3513801;RMSP (exceto capital);Diadema;5439;246
 3513850;Interior;Dirce Reis;7;0
-3513900;Interior;Divinolândia;40;2
+3513900;Interior;Divinolandia;40;2
 3514007;Interior;Dobrada;23;0
 3514106;Interior;Dois Córregos;39;3
 3514205;Interior;Dolcinópolis;48;2
@@ -163,7 +163,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3514700;Interior;Echaporã;14;1
 3514809;Interior;Eldorado;135;3
 3514908;Interior;Elias Fausto;166;4
-3514924;Interior;Elisiário;34;0
+3514924;Interior;Elisiario;34;0
 3514957;Interior;Embaúba;25;1
 3515004;RMSP (exceto capital);Embu das Artes;2111;126
 3515103;RMSP (exceto capital);Embu-Guaçu;631;19
@@ -186,7 +186,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3516309;RMSP (exceto capital);Francisco Morato;1723;66
 3516408;RMSP (exceto capital);Franco da Rocha;1289;85
 3516507;Interior;Gabriel Monteiro;16;2
-3516606;Interior;Gália;13;0
+3516606;Interior;Galia;13;0
 3516705;Interior;Garça;87;1
 3516804;Interior;Gastão Vidigal;72;10
 3516853;Interior;Gavião Peixoto;50;0
@@ -198,28 +198,28 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3517406;Interior;Guaíra;343;7
 3517505;Interior;Guapiaçu;232;14
 3517604;Interior;Guapiara;59;7
-3517703;Interior;Guará;66;1
+3517703;Interior;Guara;66;1
 3517802;Interior;Guaraçaí;17;0
 3517901;Interior;Guaraci;15;0
 3518008;Interior;Guarani d'Oeste;27;0
 3518107;Interior;Guarantã;53;0
 3518206;Interior;Guararapes;294;2
 3518305;RMSP (exceto capital);Guararema;224;14
-3518404;Interior;Guaratinguetá;334;19
+3518404;Interior;Guaratingueta;334;19
 3518503;Interior;Guareí;193;1
 3518602;Interior;Guariba;584;17
-3518701;Interior;Guarujá;4638;197
+3518701;Interior;Guaruja;4638;197
 3518800;RMSP (exceto capital);Guarulhos;12023;1069
-3518859;Interior;Guatapará;18;0
-3518909;Interior;Guzolândia;23;1
-3519006;Interior;Herculândia;43;2
+3518859;Interior;Guatapara;18;0
+3518909;Interior;Guzolandia;23;1
+3519006;Interior;Herculandia;43;2
 3519055;Interior;Holambra;105;0
-3519071;Interior;Hortolândia;3202;66
+3519071;Interior;Hortolandia;3202;66
 3519105;Interior;Iacanga;104;0
 3519204;Interior;Iacri;8;0
 3519253;Interior;Iaras;13;1
 3519303;Interior;Ibaté;162;1
-3519402;Interior;Ibirá;146;4
+3519402;Interior;Ibira;146;4
 3519501;Interior;Ibirarema;69;0
 3519600;Interior;Ibitinga;389;15
 3519709;Interior;Ibiúna;248;14
@@ -227,7 +227,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3519907;Interior;Iepê;5;1
 3520004;Interior;Igaraçu do Tietê;154;2
 3520103;Interior;Igarapava;159;3
-3520202;Interior;Igaratá;299;6
+3520202;Interior;Igarata;299;6
 3520301;Interior;Iguape;244;4
 3520400;Interior;Ilhabela;695;8
 3520426;Interior;Ilha Comprida;70;4
@@ -239,13 +239,13 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3520905;Interior;Ipaussu;128;0
 3521002;Interior;Iperó;116;0
 3521101;Interior;Ipeúna;57;0
-3521150;Interior;Ipiguá;81;4
+3521150;Interior;Ipigua;81;4
 3521200;Interior;Iporanga;10;0
 3521309;Interior;Ipuã;234;5
-3521408;Interior;Iracemápolis;545;9
+3521408;Interior;Iracemapolis;545;9
 3521507;Interior;Irapuã;38;0
 3521606;Interior;Irapuru;37;1
-3521705;Interior;Itaberá;53;0
+3521705;Interior;Itabera;53;0
 3521804;Interior;Itaí;44;0
 3521903;Interior;Itajobi;177;6
 3522000;Interior;Itaju;40;0
@@ -257,7 +257,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3522505;RMSP (exceto capital);Itapevi;2048;181
 3522604;Interior;Itapira;425;15
 3522653;Interior;Itapirapuã Paulista;33;1
-3522703;Interior;Itápolis;135;4
+3522703;Interior;Itapolis;135;4
 3522802;Interior;Itaporanga;60;1
 3522901;Interior;Itapuí;109;2
 3523008;Interior;Itapura;27;1
@@ -287,12 +287,12 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3525409;Interior;Jeriquara;8;0
 3525508;Interior;Joanópolis;45;0
 3525607;Interior;João Ramalho;21;1
-3525706;Interior;José Bonifácio;438;10
+3525706;Interior;José Bonifacio;438;10
 3525805;Interior;Júlio Mesquita;11;1
 3525854;Interior;Jumirim;20;0
 3525904;Interior;Jundiaí;6784;293
 3526001;Interior;Junqueirópolis;78;2
-3526100;Interior;Juquiá;146;2
+3526100;Interior;Juquia;146;2
 3526209;RMSP (exceto capital);Juquitiba;210;7
 3526308;Interior;Lagoinha;6;0
 3526407;Interior;Laranjal Paulista;226;5
@@ -309,7 +309,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3527405;Interior;Lucélia;55;5
 3527504;Interior;Lucianópolis;2;0
 3527603;Interior;Luís Antônio;125;8
-3527702;Interior;Luiziânia;67;2
+3527702;Interior;Luiziania;67;2
 3527801;Interior;Lupércio;15;0
 3527900;Interior;Lutécia;4;0
 3528007;Interior;Macatuba;415;4
@@ -319,15 +319,15 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3528403;Interior;Mairinque;304;14
 3528502;RMSP (exceto capital);Mairiporã;550;36
 3528601;Interior;Manduri;22;0
-3528700;Interior;Marabá Paulista;6;1
+3528700;Interior;Maraba Paulista;6;1
 3528809;Interior;Maracaí;97;0
 3528858;Interior;Marapoama;12;0
-3528908;Interior;Mariápolis;14;0
+3528908;Interior;Mariapolis;14;0
 3529005;Interior;Marília;901;18
 3529104;Interior;Marinópolis;12;0
 3529203;Interior;Martinópolis;98;6
 3529302;Interior;Matão;194;7
-3529401;RMSP (exceto capital);Mauá;3570;212
+3529401;RMSP (exceto capital);Maua;3570;212
 3529500;Interior;Mendonça;114;6
 3529609;Interior;Meridiano;18;0
 3529658;Interior;Mesópolis;17;0
@@ -338,14 +338,14 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3530102;Interior;Mirandópolis;160;5
 3530201;Interior;Mirante do Paranapanema;21;0
 3530300;Interior;Mirassol;478;16
-3530409;Interior;Mirassolândia;83;1
+3530409;Interior;Mirassolandia;83;1
 3530508;Interior;Mococa;266;7
 3530607;RMSP (exceto capital);Mogi das Cruzes;3611;239
 3530706;Interior;Mogi Guaçu;1433;44
 3530805;Interior;Mogi Mirim;518;24
 3530904;Interior;Mombuca;25;0
 3531001;Interior;Monções;32;1
-3531100;Interior;Mongaguá;244;11
+3531100;Interior;Mongagua;244;11
 3531209;Interior;Monte Alegre do Sul;15;0
 3531308;Interior;Monte Alto;189;2
 3531407;Interior;Monte Aprazível;307;6
@@ -373,7 +373,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3533106;Interior;Nova Guataporanga;6;0
 3533205;Interior;Nova Independência;9;0
 3533254;Interior;Novais;31;2
-3533304;Interior;Nova Luzitânia;42;2
+3533304;Interior;Nova Luzitania;42;2
 3533403;Interior;Nova Odessa;445;27
 3533502;Interior;Novo Horizonte;162;2
 3533601;Interior;Nuporanga;11;0
@@ -383,7 +383,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3534005;Interior;Onda Verde;46;1
 3534104;Interior;Oriente;22;0
 3534203;Interior;Orindiúva;94;3
-3534302;Interior;Orlândia;400;11
+3534302;Interior;Orlandia;400;11
 3534401;RMSP (exceto capital);Osasco;9267;612
 3534500;Interior;Oscar Bressane;5;0
 3534609;Interior;Osvaldo Cruz;69;2
@@ -408,7 +408,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3536307;Interior;Patrocínio Paulista;30;0
 3536406;Interior;Paulicéia;14;1
 3536505;Interior;Paulínia;2682;36
-3536570;Interior;Paulistânia;6;0
+3536570;Interior;Paulistania;6;0
 3536604;Interior;Paulo de Faria;33;1
 3536703;Interior;Pederneiras;329;5
 3536802;Interior;Pedra Bela;42;0
@@ -417,7 +417,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3537107;Interior;Pedreira;96;3
 3537156;Interior;Pedrinhas Paulista;10;1
 3537206;Interior;Pedro de Toledo;23;1
-3537305;Interior;Penápolis;223;6
+3537305;Interior;Penapolis;223;6
 3537404;Interior;Pereira Barreto;110;7
 3537503;Interior;Pereiras;23;1
 3537602;Interior;Peruíbe;349;21
@@ -441,7 +441,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3539509;Interior;Pitangueiras;271;3
 3539608;Interior;Planalto;89;1
 3539707;Interior;Platina;2;0
-3539806;RMSP (exceto capital);Poá;917;68
+3539806;RMSP (exceto capital);Poa;917;68
 3539905;Interior;Poloni;49;1
 3540002;Interior;Pompéia;30;2
 3540101;Interior;Pongaí;16;1
@@ -457,15 +457,15 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3540853;Interior;Pracinha;3;0
 3540903;Interior;Pradópolis;221;9
 3541000;Interior;Praia Grande;4858;166
-3541059;Interior;Pratânia;24;0
+3541059;Interior;Pratania;24;0
 3541109;Interior;Presidente Alves;15;0
 3541208;Interior;Presidente Bernardes;95;3
-3541307;Interior;Presidente Epitácio;186;5
+3541307;Interior;Presidente Epitacio;186;5
 3541406;Interior;Presidente Prudente;1768;43
 3541505;Interior;Presidente Venceslau;214;11
 3541604;Interior;Promissão;689;5
 3541653;Interior;Quadra;5;0
-3541703;Interior;Quatá;51;2
+3541703;Interior;Quata;51;2
 3541802;Interior;Queiroz;21;2
 3541901;Interior;Queluz;115;0
 3542008;Interior;Quintana;13;0
@@ -491,10 +491,10 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3543907;Interior;Rio Claro;2184;73
 3544004;Interior;Rio das Pedras;330;14
 3544103;RMSP (exceto capital);Rio Grande da Serra;410;15
-3544202;Interior;Riolândia;104;0
+3544202;Interior;Riolandia;104;0
 3544251;Interior;Rosana;47;0
 3544301;Interior;Roseira;42;2
-3544400;Interior;Rubiácea;31;0
+3544400;Interior;Rubiacea;31;0
 3544509;Interior;Rubinéia;40;0
 3544608;Interior;Sabino;25;1
 3544707;Interior;Sagres;3;0
@@ -509,7 +509,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3545506;Interior;Sandovalina;14;0
 3545605;Interior;Santa Adélia;109;1
 3545704;Interior;Santa Albertina;47;0
-3545803;Interior;Santa Bárbara d'Oeste;2010;61
+3545803;Interior;Santa Barbara d'Oeste;2010;61
 3546009;Interior;Santa Branca;100;3
 3546108;Interior;Santa Clara d'Oeste;17;1
 3546207;Interior;Santa Cruz da Conceição;57;0
@@ -528,11 +528,11 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3547502;Interior;Santa Rita do Passa Quatro;97;2
 3547601;Interior;Santa Rosa de Viterbo;91;1
 3547650;Interior;Santa Salete;36;1
-3547700;Interior;Santo Anastácio;55;7
+3547700;Interior;Santo Anastacio;55;7
 3547809;RMSP (exceto capital);Santo André;10707;381
 3547908;Interior;Santo Antônio da Alegria;11;2
 3548005;Interior;Santo Antônio de Posse;102;2
-3548054;Interior;Santo Antônio do Aracanguá;115;5
+3548054;Interior;Santo Antônio do Aracangua;115;5
 3548104;Interior;Santo Antônio do Jardim;30;2
 3548203;Interior;Santo Antônio do Pinhal;30;2
 3548302;Interior;Santo Expedito;8;0
@@ -565,7 +565,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3550902;Interior;São Simão;62;2
 3551009;Interior;São Vicente;4552;278
 3551108;Interior;Sarapuí;8;0
-3551207;Interior;Sarutaiá;40;1
+3551207;Interior;Sarutaia;40;1
 3551306;Interior;Sebastianópolis do Sul;29;0
 3551405;Interior;Serra Azul;57;2
 3551504;Interior;Serrana;469;21
@@ -579,7 +579,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3552304;Interior;Sud Mennucci;56;0
 3552403;Interior;Sumaré;3508;80
 3552502;RMSP (exceto capital);Suzano;2534;164
-3552551;Interior;Suzanápolis;26;0
+3552551;Interior;Suzanapolis;26;0
 3552601;Interior;Tabapuã;199;11
 3552700;Interior;Tabatinga;86;2
 3552809;RMSP (exceto capital);Taboão da Serra;3858;181
@@ -599,7 +599,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3553955;Interior;Tarumã;49;1
 3554003;Interior;Tatuí;914;36
 3554102;Interior;Taubaté;1444;54
-3554201;Interior;Tejupá;11;0
+3554201;Interior;Tejupa;11;0
 3554300;Interior;Teodoro Sampaio;81;2
 3554409;Interior;Terra Roxa;138;3
 3554508;Interior;Tietê;252;6
@@ -619,7 +619,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3555505;Interior;Ubirajara;58;1
 3555604;Interior;Uchoa;150;8
 3555703;Interior;União Paulista;17;0
-3555802;Interior;Urânia;134;6
+3555802;Interior;Urania;134;6
 3555901;Interior;Uru;5;1
 3556008;Interior;Urupês;42;4
 3556107;Interior;Valentim Gentil;202;1
@@ -628,7 +628,7 @@ Cod_IBGE;Grande regiao;Municipio;Mun_Total de casos;Mun_Total de obitos
 3556354;Interior;Vargem;37;1
 3556404;Interior;Vargem Grande do Sul;133;0
 3556453;RMSP (exceto capital);Vargem Grande Paulista;294;17
-3556503;Interior;Várzea Paulista;939;52
+3556503;Interior;Varzea Paulista;939;52
 3556602;Interior;Vera Cruz;7;1
 3556701;Interior;Vinhedo;950;17
 3556800;Interior;Viradouro;125;5
