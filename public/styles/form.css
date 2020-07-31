@@ -46,6 +46,10 @@ form{
   height: 100px;
 }
 
+.login-box p{
+  margin-top: 10px;
+  text-align: center;
+}
 
 .form-group{
   display: flex;
@@ -90,20 +94,29 @@ form{
 
 .form-group-social{
   margin-top: 20px;
+
+  text-align: center;
+}
+
+.form-group-social{
+  margin-top: 50px;
+
+  text-align: center;
 }
 
 .social-icons{
-  margin-top: 40px;
+  margin: 10px 0 0 15px;
 
   display: flex;
 
-  align-items: center;
+  
   justify-content: center;
 
   font-size: 64px;
 }
 
 .social-icons li{
+  list-style: none;
   margin-right: 30px;
   cursor: pointer;
 }

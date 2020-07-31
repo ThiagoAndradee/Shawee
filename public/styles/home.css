@@ -1,0 +1,97 @@
+header{
+  display: flex;
+  align-items: center;
+  background-color: var(--white);
+}
+
+header img{
+  width: 180px;
+  height: 60px;
+}
+
+.profile{
+  align-items: center;
+  margin-left: 20px;
+
+  width: 150px;
+  height: 30px;
+
+  border: solid black 2px;
+  border-radius: 20px;
+  
+  cursor: pointer;
+}
+.profile span{
+  margin: 3px 30px 10px 30px;
+
+  display: flex;
+  
+  justify-content: space-between;
+
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar{
+  margin-left: 100px;
+  display: flex;
+
+  text-align: center;
+}
+
+.navbar a{
+  width: 150px;
+  height: 30px;
+
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+
+  border: solid black 2px;
+  border-radius: 20px;
+
+  margin: 0 10px;
+
+  cursor: pointer;
+}
+
+.navbar p{
+  margin-top: 5px;
+}
+
+.buttons{
+  float: right;
+  align-items: center;
+  margin: 3px 30px 10px 30px;
+}
+
+.buttons button{
+  margin: 8px 20px 0 100px ;
+
+  width: 150px;
+  height: 30px;
+
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+
+  border: solid black 2px;
+  background-color: red;
+  border-radius: 20px;
+
+  cursor: pointer;
+}
+
+.bell{
+  cursor: pointer;
+}
+
+.map{
+  height: 100%;
+}
+
+h1{
+  font-size: 12px;
+  color: white;
+}

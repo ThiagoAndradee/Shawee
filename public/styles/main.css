@@ -3,22 +3,22 @@
   --white: #ececec;
   --red: #A80E00;
 }
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 html{
   font-family: Roboto, sans-serif;
 }
+
 body{
   background-image: url('../assets/Network.png');
   -webkit-font-smoothing: antialiases;
 }
+
 a{
   text-decoration: none;
-}
-h1, h2, h3, h4, h5, h6{
-  font-family: 'Fira Sans', sans-serif;
-  color: var(--red);
 }
