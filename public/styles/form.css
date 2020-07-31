@@ -10,6 +10,7 @@
   box-sizing: border-box;
   border: none;
 }
+a{text-decoration: none; color: var(--red);}
 html{
   font-family: Roboto, sans-serif;
 }
@@ -24,10 +25,8 @@ form{
 }
 
 .login-box{
-  
-
   padding: 50px 100px;
-  margin-top: 20%;
+  margin: 20% 0;
 
   justify-content: center;
 
@@ -90,6 +89,7 @@ form{
   overflow: 10px;
 
   align-self: center;
+  cursor: pointer;
 }
 
 .form-group-social{
@@ -105,11 +105,10 @@ form{
 }
 
 .social-icons{
-  margin: 10px 0 0 15px;
+  margin: 20px 0 0 15px;
 
   display: flex;
 
-  
   justify-content: center;
 
   font-size: 64px;
